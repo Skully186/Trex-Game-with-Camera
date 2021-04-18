@@ -1,1 +1,2 @@
-# Trex-Game-with-Camera
+# trex
+Chrome's trex game created using p5.play
